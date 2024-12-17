@@ -65,6 +65,12 @@ Interactive charts, maps, and dashboards enable effective data exploration and a
 ---
 
 ## **Dashboard Overview**  
+
+![Screenshot 2024-12-16 191720](https://github.com/user-attachments/assets/38f558e6-99e5-4625-adf4-83e9ca23c5f0)
+
+![Screenshot 2024-12-16 191845](https://github.com/user-attachments/assets/868839ac-aa88-4630-adf4-63a00320c395)
+
+
 The Kibana dashboards provide:  
 - **Energy Consumption** insights through Gauge Charts  
 - **Speed and Traffic Density** analysis using Bar Charts  
@@ -78,14 +84,26 @@ The Kibana dashboards provide:
 ## **Analysis and Key Insights**  
 
 ### **1. Gauge Chart**  
+
+![WhatsApp Image 2024-12-15 at 7 44 22 PM](https://github.com/user-attachments/assets/18af5aaa-1298-46b1-a134-4e055bb61405)
+
+
 **Data**: Average Energy Consumption (47.739 units)  
 **Use Cases**: Monitor energy usage trends and compare against targets.  
 
 ### **2. Text/Value Display**  
+
+![WhatsApp Image 2024-12-15 at 7 44 22 PM (1)](https://github.com/user-attachments/assets/a6fc9e62-f0b8-40db-8127-8286890a5caa)
+
+
 **Data**: Average Speed (57.727 units)  
 **Use Cases**: Quick monitoring of vehicle or network performance.  
 
 ### **3. Donut Chart**  
+
+![WhatsApp Image 2024-12-15 at 7 44 22 PM (2)](https://github.com/user-attachments/assets/8576bd77-6d54-43c2-a848-01e8cc9d792d)
+
+
 **Data**: Economic Conditions  
 - Booming: 31.99%  
 - Stable: 38.38%  
@@ -93,6 +111,10 @@ The Kibana dashboards provide:
 **Use Cases**: Analyze economic climates and their trends.  
 
 ### **4. Pie Chart**  
+
+![WhatsApp Image 2024-12-15 at 7 44 23 PM](https://github.com/user-attachments/assets/16f50e5c-bc1e-446d-806a-32b29717ffce)
+
+
 **Data**: Vehicle Type Distribution  
 - Autonomous Vehicles: 61.62%  
 - Drones: 24.24%  
@@ -101,20 +123,36 @@ The Kibana dashboards provide:
 **Use Cases**: Identify market trends in emerging vehicle technologies.  
 
 ### **5. Treemap**  
+
+![WhatsApp Image 2024-12-15 at 7 44 23 PM (1)](https://github.com/user-attachments/assets/b1ac68a0-a1b1-4c65-8998-e9353d883c2b)
+
+
 **Data**: Weather Conditions  
 **Insight**: Rainy and Snowy conditions dominate.  
 **Use Cases**: Visualize and compare weather pattern frequency.  
 
 ### **6. Tag Cloud**  
+
+![WhatsApp Image 2024-12-15 at 7 44 23 PM (2)](https://github.com/user-attachments/assets/53bb4417-2c6a-4853-939b-07227305f17c)
+
+
 **Data**: City Names  
 **Insight**: AquaCity, SolarisVille, and Neuroburg dominate.  
 **Use Cases**: Analyze city-specific mentions or traffic focus.  
 
 ### **7. Bar Chart**  
+
+![WhatsApp Image 2024-12-15 at 7 44 24 PM](https://github.com/user-attachments/assets/e9da0457-7814-492d-bc05-350473c24d2b)
+
+
 **Data**: Speed vs. Peak Hours under Weather Conditions  
 **Use Cases**: Understand congestion during peak hours across weather types.  
 
 ### **8. Heatmap**  
+
+![WhatsApp Image 2024-12-15 at 7 44 24 PM (1)](https://github.com/user-attachments/assets/bba4f671-62a2-495f-a866-7b632b1d7122)
+
+
 **Data**: Vehicle Type Distribution by City  
 **Insight**:  
 - Autonomous Vehicles: MetropolisX  
@@ -122,19 +160,35 @@ The Kibana dashboards provide:
 **Use Cases**: Analyze regional vehicle preferences.  
 
 ### **9. Bar Chart**  
+
+![WhatsApp Image 2024-12-15 at 7 44 24 PM (2)](https://github.com/user-attachments/assets/6aa8569e-ca63-4b47-9bff-290059fefd89)
+
+
 **Data**: Speed vs Hour of Day  
 **Insight**: Higher speeds occur during off-peak hours.  
 **Use Cases**: Optimize transportation planning and scheduling.  
 
 ### **10. Area Chart**  
+
+![WhatsApp Image 2024-12-15 at 7 44 25 PM](https://github.com/user-attachments/assets/99ee6a64-f07a-42d0-bfda-9b67e392c125)
+
+
 **Data**: Energy Consumption vs Traffic Density  
 **Insight**: Rising traffic density increases energy consumption for most vehicles.  
 
 ### **11. Bar Chart**  
+
+![WhatsApp Image 2024-12-15 at 7 44 25 PM (1)](https://github.com/user-attachments/assets/6e2f4420-a344-4bd5-b025-9cd4d277edf1)
+
+
 **Data**: Average Speed vs Vehicle Type  
 **Insight**: Autonomous Vehicles exhibit the highest speeds.  
 
 ### **12. Line Graph**  
+
+![WhatsApp Image 2024-12-15 at 7 44 25 PM (2)](https://github.com/user-attachments/assets/d2717c5a-3570-4e66-a8a5-3d6f116fbb8c)
+
+
 **Data**: Traffic Density by Hour  
 **Insight**: Density peaks during morning and evening rush hours.  
 
